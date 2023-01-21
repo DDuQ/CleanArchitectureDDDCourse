@@ -1,0 +1,12 @@
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.deps.json
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.dll
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\bin\Debug\net6.0\BubberDinner.Contracts.pdb
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.AssemblyInfo.cs
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.dll
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\refint\BubberDinner.Contracts.dll
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\BubberDinner.Contracts.pdb
+C:\Users\esteb\OneDrive\Escritorio\.NET Courses\BubberDinner\BubberDinner.Contracts\obj\Debug\net6.0\ref\BubberDinner.Contracts.dll
